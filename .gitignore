@@ -15,3 +15,8 @@ frontend/node_modules/
 # Contracts
 contracts/target/
 contracts/Cargo.lock
+
+# Temp
+arms_cache/
+parent_ls.txt
+merge_log_v2.txt
