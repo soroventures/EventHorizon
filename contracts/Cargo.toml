@@ -52,6 +52,13 @@ members = [
     "access_whitelist",
     "zk_event_filter",
     "parameter_registry",
+
+    # Issue #292 — multi-signature wrapper around high-value event emission.
+    "multisig_event_registry",
+    # Issue #293 — gas-optimized batched event emission utility.
+    "event_batch",
+    # Issue #295 — W3C-compatible DID registry/resolver.
+    "did_resolver",
 ]
 
 [profile.release]
