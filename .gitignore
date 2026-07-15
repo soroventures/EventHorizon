@@ -1,6 +1,8 @@
-# IDE
+# IDE / AI tool dirs
 .qcoder/
-.codex
+.qoder/
+.kiro/
+.codex/
 
 # Server
 .env
@@ -20,3 +22,4 @@ contracts/Cargo.lock
 arms_cache/
 parent_ls.txt
 merge_log_v2.txt
+metrics.md
