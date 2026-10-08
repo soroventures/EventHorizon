@@ -52,6 +52,7 @@ members = [
     "access_whitelist",
     "zk_event_filter",
     "parameter_registry",
+    "multisig_escrow",
 ]
 
 [profile.release]
